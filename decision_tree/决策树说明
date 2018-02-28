@@ -21,4 +21,4 @@
 女儿：那好，我去见见。
 
 这个女生的决策过程就是典型的分类决策树。相当于对年龄、外貌、收入和是否公务员等特征将男人分为两个类别：见或者不见。假设这个女生的决策逻辑如下： 
-![示例](https://github.com/kankan1987/algorithm/blob/master/pic/001.png)
+![image](https://github.com/kankan1987/algorithm/blob/master/pic/001.png)
